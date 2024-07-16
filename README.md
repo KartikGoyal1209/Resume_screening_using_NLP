@@ -1,5 +1,8 @@
 # Resume_screening_using_NLP
 
+
+
+https://resumescreeningusingnlp-jmpqpbmromonpikmtxijp6.streamlit.app/
 This repository hosts a Streamlit application designed to screen resumes using machine learning models. The project involves data preprocessing, model training, and evaluation to predict job categories based on resume content.
 
 # Dataset
